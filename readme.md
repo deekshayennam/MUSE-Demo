@@ -8,7 +8,7 @@ To get started, clone this repo and create the conda requirement with the requir
 ```
 git clone git@github.com:deekshayennam/MUSE-Demo.git
 cd MUSE-Demo
-conda create env --name muse-demo Python==3.7
+conda create --name muse-demo Python==3.7
 conda activate muse-demo
 pip install requirements.txt
 
