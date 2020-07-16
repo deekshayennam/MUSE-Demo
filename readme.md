@@ -1,4 +1,4 @@
-** [Austin Python Meetup - An evening of Python Coding (July 21, 2020)](https://www.meetup.com/austinpython/events/phlttrybckbcc/) **
+**[Austin Python Meetup - An evening of Python Coding (July 21, 2020)](https://www.meetup.com/austinpython/events/phlttrybckbcc/)**
 
 
 This repository contains an example notebook demonstrating how to use the **[Multilingual Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3)** pre-trained module from Tensorflow Hub. 
