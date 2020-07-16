@@ -10,7 +10,7 @@ git clone git@github.com:deekshayennam/MUSE-Demo.git
 cd MUSE-Demo
 conda create env --name muse-demo Python==3.7
 conda activate muse-demo
-pip install requirments.txt
+pip install requirements.txt
 
 ```
 Next, open the MUSE-Demo.ipynb notebook in your jupyter console and follow along with the example.
