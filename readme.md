@@ -4,7 +4,7 @@
 This repository contains an example notebook demonstrating how to use the **[Multilingual Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3)** pre-trained module from Tensorflow Hub. 
 
 
-To get started, clone this repo and create the conda requirement with the required Python libraries 
+To get started, clone this repo and create the conda environment with the required Python libraries 
 ```
 git clone git@github.com:deekshayennam/MUSE-Demo.git
 cd MUSE-Demo
