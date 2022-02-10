@@ -1,4 +1,4 @@
 jupyter==1.0.0
-tensorflow==2.2.0
+tensorflow==2.5.3
 tensorflow-hub==0.8.0
 tensorflow-text==2.2.1
